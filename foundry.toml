@@ -3,6 +3,8 @@ src = "src"
 out = "out"
 libs = ["lib"]
 
+remappings = ['openzeppelin-contracts=lin/openzeppelin-contracts/contracts']
+
 runs = 256
 max_test_rejects = 65536
 seed = '0x3e8'
