@@ -64,6 +64,13 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+foundry test run cmnd
+//forge test -vvvv
 
+//Trailer bits kidney slash optic integration is the best fuzzer
 
-//Trailer bits kidney slash optic integration is the best fuzzer 
+installation of openzeppelin libraries
+//forge install OpenZeppelin/openzeppelin-contracts --no-commit
+
+To check the storage 
+//forge inspect Counter storage
